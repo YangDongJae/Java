@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RaggedArrayTest
+comment0.text=\n\ RaggedArray\ Class\n\n\ @author\ (2017315012\ \uC591\uB3D9\uC7AC)\n\ @version\ (2020.04.21)\n
+comment1.params=
+comment1.target=int[][]\ makeArray()
+comment2.params=temp
+comment2.target=int[][]\ initArray(int[][])
+comment2.text=\n\ reset\ array\n\n\ @param\ \ temp\ \ array\ for\ reset\n\ @return\ \ \ \ \uCD08\uAE30\uD654\uB41C\ 2\uCC28\uC6D0\ \uBE44\uC815\uBC29\uD615\ \uBC30\uC5F4\ \n
+comment3.params=array
+comment3.target=void\ printArray(int[][])
+comment4.params=stuffArray
+comment4.target=int\ SumArray(int[][])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

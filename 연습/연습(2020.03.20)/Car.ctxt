@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Class\ of\ Car\n\n\ @author\ (2017315012\ Yang\ Dong\ Jae)\n\ @version\ (2020.03.20)\n
+comment1.params=
+comment1.target=void\ Drive()
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+numComments=2

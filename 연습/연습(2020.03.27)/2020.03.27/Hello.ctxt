@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Hello
+comment0.text=\n\ Write\ a\ description\ of\ class\ Hello\ here.\n\n\ @author\ (2017315012\ Yang\ Dong\ Jae)\n\ @version\ (2020.03.27)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ m
+comment2.target=int\ sum(int,\ int)
+numComments=3
