@@ -1,4 +1,3 @@
-
 /**
  * 실습#2 : 다음 그림과 같은 비정방형 배열을 만들어 값을 초기화하고 출력한 후에 각 행의 합을 구하여 출력하시오.
  *
@@ -50,20 +49,37 @@ public class RaggedArrayExplain
             System.out.println();
 
         }
-        /**
-         * 1개의 행의 합을 구하는 메소드
-         * 
-         * @param array 합을 구하려고하는 1차원 배열
-         * 
-         * @return 1개의 행의 합
-         */
-        public static int sumArray(int [] array){
+    }
+
+    /**
+     * 1개의 행의 합을 구하는 메소드
+     * 
+     * @param array 합을 구하려고하는 1차원 배열
+     * 
+     * @return 1개의 행의 합
+     */
+    public static int sumArray(int [] array){
         int result = 0;
         for(int item: array){
             result += item;
 
         }
         return result;
+    }
+
+    /**
+     *  nested for each statement
+     */
+    public static void totalSumArray(int[][] array){
+        for(int stuff[]: array){
+            //outer loop
+            int result = 0;
+            //inner loop
+            for(int subStuff: stuff){
+                result += subStuff;
+            }
+            System.out.println(result);
+        }
     }
 
     public static void main(String[] args){
