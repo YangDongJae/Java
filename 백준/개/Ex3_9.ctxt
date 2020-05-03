@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ex3_9
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ex3_9\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=int\ sumArray(java.lang.String[])
+comment2.params=
+comment2.target=void\ fruitArray()
+comment3.params=
+comment3.target=void\ dayOfTheWeek()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Ex3_10
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ex3_10\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int[][]\ resetArray()
+comment2.params=resetArray
+comment2.target=int[][]\ scoreArray(int[][])
+comment3.params=scoreArray
+comment3.target=int[]\ avarageArray(int[][])
+comment4.params=avarageArray
+comment4.target=void\ printArray(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
