@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CompareArray
+comment0.text=\n\ Compare\ 2dimesion\ array\n\n\ @author\ (2017315012\ YangDongJae)\n\ @version\ (2020.05.11)\n
+comment1.params=
+comment1.target=int[][]\ makeArray()
+comment2.params=array
+comment2.target=int[][]\ add_data(int[][])
+comment3.params=array
+comment3.target=void\ print_array(int[][])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
