@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\n\ The\ Point\n\n\ @author\ (YangDongJae)\n\ @version\ (2020.06.02)\n
+comment1.params=x\ y
+comment1.target=void\ set(int,\ int)
+comment1.text=\n\ setting\ x\ ,\ y\ Point\n\n\ @param\ \ x\ \ x\ Point\ of\ the\ Dot\n\ @param\ \ y\ \ y\ Point\ of\ the\ Dot\n\ \n
+comment2.params=
+comment2.target=void\ showPoint()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+numComments=3
