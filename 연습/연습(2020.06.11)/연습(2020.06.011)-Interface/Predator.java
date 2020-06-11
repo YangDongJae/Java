@@ -5,7 +5,11 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public interface Predator
+public abstract class Predator extends Animal
 {
-    public String getFood();
+    public abstract String getFood();
+    
+    public boolean isPeadator() {
+        return true;
+    }
 }

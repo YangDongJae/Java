@@ -3,4 +3,6 @@ comment0.target=Predator
 comment0.text=\n\ Write\ a\ description\ of\ interface\ Predator\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
 comment1.params=
 comment1.target=java.lang.String\ getFood()
-numComments=2
+comment2.params=
+comment2.target=boolean\ isPeadator()
+numComments=3
