@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Converter
+comment1.params=src
+comment1.target=double\ convert(double)
+comment2.params=
+comment2.target=java.lang.String\ getSrcString()
+comment3.params=
+comment3.target=java.lang.String\ getDestString()
+comment4.params=
+comment4.target=void\ run()
+numComments=5

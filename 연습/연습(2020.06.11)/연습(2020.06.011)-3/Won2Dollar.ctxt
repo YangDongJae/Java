@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Won2Dollar
+comment0.text=\n\ Write\ a\ description\ of\ class\ Won2Dollar\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=ratio
+comment1.target=Won2Dollar(double)
+comment2.params=src
+comment2.target=double\ convert(double)
+comment3.params=
+comment3.target=java.lang.String\ getSrcString()
+comment4.params=
+comment4.target=java.lang.String\ getDestString()
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=pen
+comment0.text=\n\ Write\ a\ description\ of\ class\ Exam_extends\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getAmount()
+comment2.params=amount
+comment2.target=void\ setAmount(int)
+numComments=3

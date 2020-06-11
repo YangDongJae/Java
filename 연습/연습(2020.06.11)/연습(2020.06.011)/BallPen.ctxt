@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BallPen
+comment0.text=\n\ Write\ a\ description\ of\ class\ BallPen\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=java.lang.String\ getColor()
+comment2.params=color
+comment2.target=void\ setColor(java.lang.String)
+numComments=3
