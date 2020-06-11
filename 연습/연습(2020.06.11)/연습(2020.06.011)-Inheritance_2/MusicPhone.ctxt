@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MusicPhone
+comment0.text=\n\ Write\ a\ description\ of\ class\ MusicPhone\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MusicPhone()
+comment2.params=musicName
+comment2.target=void\ downloadMusic(java.lang.String)
+comment3.params=musicName
+comment3.target=void\ playMusci(java.lang.String)
+numComments=4
