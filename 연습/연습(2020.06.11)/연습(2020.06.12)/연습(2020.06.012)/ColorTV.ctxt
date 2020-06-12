@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ColorTV
+comment0.text=\n\ Write\ a\ description\ of\ class\ ColorTV\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=size\ color
+comment1.target=ColorTV(int,\ int)
+comment2.params=
+comment2.target=int\ getColor()
+comment3.params=
+comment3.target=void\ printProperty()
+numComments=4

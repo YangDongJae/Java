@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=IPTV
+comment0.text=\n\ Write\ a\ description\ of\ class\ IPTV\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=address\ size\ color
+comment1.target=IPTV(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ printProperty()
+numComments=3
