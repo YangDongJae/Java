@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mul
+comment0.text=\n\ Mul\ Number\ a\ b\n\n\ @author\ (YangDongJae)\n\ @version\ (2020.06.12)\n
+comment1.params=
+comment1.target=int\ calculate()
+comment1.text=\n\ \n\ Mul\ method\n\ \n\ @return\ a\ *\ b\n
+comment2.params=
+comment2.target=void\ sendCall()
+comment3.params=
+comment3.target=void\ receiveCall()
+numComments=4

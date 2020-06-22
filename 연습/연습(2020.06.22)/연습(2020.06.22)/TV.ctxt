@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TV
+comment0.text=\n\ Write\ a\ description\ of\ class\ TV\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=size
+comment1.target=TV(int)
+comment2.params=
+comment2.target=int\ getSize()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @return\ \ \ TV\ size\n
+numComments=3
