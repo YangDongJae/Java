@@ -1,4 +1,4 @@
-public class Point{
+public class Point {
     private int x , y;
     public Point(int x, int y){
         this.x = x;
@@ -14,8 +14,10 @@ public class Point{
     }
 
     protected void move(int x ,int y){
-        this.x = x;
-        this.y = y;
+        if(x >= 0 && y >= 0){
+            this.x = x;
+            this.y = y;                
+        }
+
     }
-    
 } 

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PositivePoint
+comment1.params=
+comment1.target=PositivePoint()
+comment2.params=x\ y
+comment2.target=PositivePoint(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=x\ y
+comment4.target=void\ move(int,\ int)
+numComments=5
