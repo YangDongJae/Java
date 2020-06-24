@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StringStack
+comment1.params=num
+comment1.target=StringStack(int)
+comment2.params=
+comment2.target=int\ length()
+comment3.params=
+comment3.target=int\ capacity()
+comment4.params=
+comment4.target=java.lang.String\ pop()
+comment5.params=val
+comment5.target=boolean\ push(java.lang.String)
+numComments=6

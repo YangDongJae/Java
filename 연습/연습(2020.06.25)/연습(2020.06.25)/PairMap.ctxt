@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PairMap
+comment0.text=\n\ Abstract\ class\ PairMap\ -\ write\ a\ description\ of\ the\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=key
+comment1.target=java.lang.String\ get(java.lang.String)
+comment2.params=key\ value
+comment2.target=void\ put(java.lang.String,\ java.lang.String)
+comment3.params=key
+comment3.target=java.lang.String\ delete(java.lang.String)
+comment4.params=
+comment4.target=int\ length()
+numComments=5

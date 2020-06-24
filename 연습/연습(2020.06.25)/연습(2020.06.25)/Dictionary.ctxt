@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Dictionary
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dictionary\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=length
+comment1.target=Dictionary(int)
+comment2.params=key
+comment2.target=java.lang.String\ get(java.lang.String)
+comment3.params=key\ value
+comment3.target=void\ put(java.lang.String,\ java.lang.String)
+comment4.params=key
+comment4.target=java.lang.String\ delete(java.lang.String)
+comment5.params=
+comment5.target=int\ length()
+comment6.params=
+comment6.target=void\ getArray()
+numComments=7
