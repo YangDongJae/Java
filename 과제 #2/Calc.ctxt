@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calc
+comment0.text=\n\ Abstract\ Class\ Calc\ -\ Setting\ Value\ for\ Calculate\n\ \n\ @author\ (Yang\ Dong\ Jae)\n\ @version\ (2020.06.27)\n
+comment1.params=
+comment1.target=int\ calculate()
+comment2.params=a\ b
+comment2.target=void\ setValue(int,\ int)
+comment2.text=\n\ Set\ Property\n\ \ \n
+numComments=3

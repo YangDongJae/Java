@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Div
+comment0.text=\n\ Div\ Operation\n\ \n\ @author\ (Yang\ Dong\ Jae)\ \n\ @version\ (2020.06.27)\n
+comment1.params=
+comment1.target=int\ calculate()
+comment1.text=\n\ Div\ Method\n\ \ \n\ @return\ \ \ \ \ \ result\ of\ Div\n
+comment2.params=
+comment2.target=void\ printOperator()
+comment2.text=\n\ Print\ Operator\n\ \ \n
+numComments=3
