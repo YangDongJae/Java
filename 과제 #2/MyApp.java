@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import P.PrintInterface;
 /**
  * MyApp Class for play Program
  * 
@@ -33,6 +34,7 @@ public class MyApp
                      object = new Mul();
                      object.setValue(operand1, operand2);
                      result = ((Mul)object).calculate();
+                     object.printOperator();
                      break;
             case "/": 
                      object = new Div();

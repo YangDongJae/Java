@@ -24,7 +24,7 @@ public class Add extends Calc implements PrintInterface
      */    
     @Override
     public void printOperator(){
-
+        System.out.println(" + ");
     }
 
 }

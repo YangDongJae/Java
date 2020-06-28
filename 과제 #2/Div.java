@@ -24,6 +24,6 @@ public class Div extends Calc implements PrintInterface
      */   
     @Override
     public void printOperator(){
-        
+        System.out.println(" / ");        
     }        
 }

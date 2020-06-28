@@ -5,7 +5,7 @@ import P.PrintInterface;
  * @author (Yang Dong Jae) 
  * @version (2020.06.27)
  */
-public class Mul extends Calc implements PrintInterface
+public class Mul extends Calc implements P.PrintInterface
 {
     /**
      * Mul Method
@@ -22,8 +22,7 @@ public class Mul extends Calc implements PrintInterface
      * Print Operator
      *  
      */   
-    @Override
     public void printOperator(){
-        
+        System.out.println(" * ");        
     }        
 }

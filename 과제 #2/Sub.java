@@ -24,6 +24,6 @@ public class Sub extends Calc implements PrintInterface
      */   
     @Override
     public void printOperator(){
-        
+        System.out.println(" - ");        
     }    
 }
