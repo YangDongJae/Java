@@ -8,6 +8,10 @@ import P.PrintInterface;
  */
 public class MyApp
 {
+    /**
+     * Calculated use by input data , Print Operator & Calculated reuslt
+     *  
+     */
     public static void main(String[] args){
         //----A----
         Scanner input = new Scanner(System.in);
@@ -24,26 +28,29 @@ public class MyApp
                      object = new Add();
                      object.setValue(operand1, operand2);
                      result = ((Add)object).calculate();
+                     ((Add)object).printOperator();                     
                      break;
             case "-": 
                      object = new Sub();
                      object.setValue(operand1, operand2);
                      result = ((Sub)object).calculate();
+                     ((Sub)object).printOperator();                     
                      break;
             case "*": 
                      object = new Mul();
                      object.setValue(operand1, operand2);
                      result = ((Mul)object).calculate();
-                     object.printOperator();
+                     ((Mul)object).printOperator();
                      break;
             case "/": 
                      object = new Div();
                      object.setValue(operand1, operand2);
                      result = ((Div)object).calculate();
+                     ((Div)object).printOperator();                     
                      break;
         }
-        
+
         //----D----
-        System.out.println(result);
+        System.out.println("reuslt : " + result);
     }
 }

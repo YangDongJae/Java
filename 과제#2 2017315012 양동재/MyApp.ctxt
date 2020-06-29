@@ -3,4 +3,5 @@ comment0.target=MyApp
 comment0.text=\n\ MyApp\ Class\ for\ play\ Program\n\ \n\ @author\ (Yang\ Dong\ Jae)\ \n\ @version\ (2020.06.27\ )\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Calculated\ use\ by\ input\ data\ ,\ Print\ Operator\ &\ Calculated\ reuslt\n\ \ \n
 numComments=2

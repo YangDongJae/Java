@@ -1,0 +1,27 @@
+#BlueJ package file
+objectbench.height=194
+objectbench.width=816
+package.divider.horizontal=0.6
+package.divider.vertical=0.5270588235294118
+package.editor.height=217
+package.editor.width=722
+package.editor.x=840
+package.editor.y=23
+package.frame.height=483
+package.frame.width=840
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=50
+target1.name=PrintInterface
+target1.showInterface=false
+target1.type=InterfaceTarget
+target1.width=100
+target1.x=160
+target1.y=10

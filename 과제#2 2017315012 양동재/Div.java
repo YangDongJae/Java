@@ -1,28 +1,29 @@
 import P.PrintInterface;
 /**
- * Mul Operation  
+ * Div Operation
  * 
  * @author (Yang Dong Jae) 
  * @version (2020.06.27)
  */
-public class Mul extends Calc implements P.PrintInterface
+public class Div extends Calc implements PrintInterface
 {
     /**
-     * Mul Method
+     * Div Method
      *  
-     * @return      Result of Mul
-     */  
+     * @return      result of Div
+     */
     @Override
     public int calculate()
     {
-        return a * b;
+        return a / b;
     }
     
-    /**
+     /**
      * Print Operator
      *  
      */   
+    @Override
     public void printOperator(){
-        System.out.println(" * ");        
+        System.out.println("Operator: / ");        
     }        
 }

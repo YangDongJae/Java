@@ -1,29 +1,30 @@
 import P.PrintInterface;
 /**
- * Div Operation
+ * Add Operation  
  * 
  * @author (Yang Dong Jae) 
  * @version (2020.06.27)
  */
-public class Div extends Calc implements PrintInterface
+public class Add extends Calc implements PrintInterface
 {
     /**
-     * Div Method
+     * sum Method
      *  
-     * @return      result of Div
-     */
+     * @return      result of Sum
+     */    
     @Override
     public int calculate()
     {
-        return a / b;
+        return a + b;
     }
-    
-     /**
+
+    /**
      * Print Operator
      *  
-     */   
+     */    
     @Override
     public void printOperator(){
-        System.out.println(" / ");        
-    }        
+        System.out.println("Operator : + ");
+    }
+
 }

@@ -1,29 +1,28 @@
 import P.PrintInterface;
 /**
- * Sub Operation  
+ * Mul Operation  
  * 
  * @author (Yang Dong Jae) 
  * @version (2020.06.27)
  */
-public class Sub extends Calc implements PrintInterface
+public class Mul extends Calc implements P.PrintInterface
 {
     /**
-     * Sub Method
+     * Mul Method
      *  
-     * @return      result of Sub
-     */    
+     * @return      Result of Mul
+     */  
     @Override
     public int calculate()
     {
-        return a - b;
+        return a * b;
     }
     
     /**
      * Print Operator
      *  
      */   
-    @Override
     public void printOperator(){
-        System.out.println(" - ");        
-    }    
+        System.out.println("Operator: * ");        
+    }        
 }
