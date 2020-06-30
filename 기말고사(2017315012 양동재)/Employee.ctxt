@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\n\ \uC18D\uC131\ \uC120\uC5B8\ ,\ pay\ \uCD94\uC0C1\uBA54\uC11C\uB4DC\ \uC120\uC5B8\ ,\ wrapper\ class\ toString\ method\ overriding\n\n\ @author\ (2017315012\ \uC591\uB3D9\uC7AC)\n\ @version\ (2020.06.30)\n
+comment1.params=
+comment1.target=double\ pay()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ overriding\ Wrapper\ class\ to\ String\ method.\n
+numComments=3

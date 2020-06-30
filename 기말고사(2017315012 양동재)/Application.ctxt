@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\n\ Employee\uD615\ \uBC30\uC5F4\ \uC120\uC5B8\ \uBC0F\ \uCD08\uAE30\uD654\ ,\ \uBC30\uC5F4\uC5D0\ \uC800\uC7A5\uB41C\ \uAC1D\uCCB4\uC815\uBCF4\uB4E4\uC758\ \uC815\uBCF4\ \n\ \uCD9C\uB825\ \uBC0F\ \uAE09\uC5EC\ \uCD1D\uD569\ \uACC4\uC0B0\ ,\ \uCD9C\uB825\n\n\ @author\ (2017315012\ \uC591\uB3D9\uC7AC)\n\ @version\ (2020.06.30)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Employee\uD615\ \uBC30\uC5F4\ \uC120\uC5B8\ \uBC0F\ \uCD08\uAE30\uD654\ \n\ \uBC30\uC5F4\uC5D0\ \uC800\uC7A5\uB41C\ \uAC1D\uCCB4\uC815\uBCF4\uB4E4\uC758\ \uC815\uBCF4\ \uCD9C\uB825\ \n\ \uAE09\uC5EC\ \uCD1D\uD569\ \uACC4\uC0B0\ ,\ \uCD9C\uB825\n\n
+numComments=2

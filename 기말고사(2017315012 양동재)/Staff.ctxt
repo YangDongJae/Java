@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\n\ Staff\uC18D\uC131\uAC12\ \uCD08\uAE30\uD654\ pay\ method\ overriding\ ,\ say\ method\ impelement\ ,\ overriding\ \n\n\ @author\ (2017315012\ \uC591\uB3D9\uC7AC)\n\ @version\ (2020.06.30)\n
+comment1.params=name\ salary
+comment1.target=Staff(java.lang.String,\ int)
+comment1.text=\n\ Staff\uC18D\uC131\uAC12\ \uCD08\uAE30\uD654\ ,\ hoursWorked\ 80\ \uC73C\uB85C\ \uC815\uC758\n\ \n\ @parameter\ String\ name\ \:\ Staff\ name\n\ @parameter\ int\ Salary\ \:\ Staff\ Salary\n
+comment2.params=
+comment2.target=double\ pay()
+comment2.text=\n\ calculate\ for\ Staff\ pay\n\n\ @return\ \ \ \ Staff\ pay\ (\ salary\ *\ hoursWorked\ +\ 80\ )\n
+comment3.params=
+comment3.target=void\ say()
+comment3.text=\n\ print\ staff\ pay\n\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Professor
+comment0.text=\n\ Professor\ \uC18D\uC131\uAC12\ \uCD08\uAE30\uD654\ ,\ \uCD94\uC0C1\uBA54\uC11C\uB4DC\ overriding\ ,bonus\ method\ \uC815\uC758\ ,\ say\ method\ implement\ ,\ overriding\n\n\ @author\ (2017315012\ \uC591\uB3D9\uC7AC)\n\ @version\ (2020.06.30)\n
+comment1.params=name\ salary\ officeHours
+comment1.target=Professor(java.lang.String,\ int,\ int)
+comment1.text=\n\ \uC18D\uC131\uAC12\ \uCD08\uAE30\uD654\n\ \n\ @parameter\ String\ name\ \:\ prof.Name\n\ @parameter\ int\ salary\ \:\ prof.Salary\n\ @parameter\ int\ officeHours\ \:\ prof.Working\ Hours\n
+comment2.params=
+comment2.target=double\ bonus()
+comment2.text=\n\ calculate\ bonus\ cash\n\n\ @return\ \ \ \ result\ of\ calculate\ bonus\ cash\n
+comment3.params=
+comment3.target=double\ pay()
+comment3.text=\n\ Calculate\ pay\ \n\n\ @return\ \ \ \ total\ pay\ (salary\ *\ hoursWorked\ +\ bonus)\n
+comment4.params=
+comment4.target=void\ say()
+comment4.text=\n\ print\ prof\ pay\n\n
+numComments=5
